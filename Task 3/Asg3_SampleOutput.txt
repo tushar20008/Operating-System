@@ -1,0 +1,42 @@
+> coach
+36
+Coach arrives at time 0.
+Coach departs at time 220.
+NNNY
+NNYN
+NNNN
+NYNN
+YYNN
+NNYN
+NNNY
+YYNY
+NNNN
+10 passengers carry luggage.
+
+
+> coach
+72
+Coach arrives at time 0.
+Coach departs at time 250.
+NNNY
+NNYN
+NNNN
+NYNN
+YYNN
+NNYN
+NNNY
+YYNY
+NNNN
+10 passengers carry luggage. 
+Coach arrives at time 850.
+Coach departs at time 925.
+YNNN
+YNNN
+NYYN
+NNNN
+NNNN
+NNNN
+NYNY
+NNNN
+NNNN
+6 passengers carry luggage.

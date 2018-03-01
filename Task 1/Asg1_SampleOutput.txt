@@ -1,0 +1,25 @@
+> coach 
+25
+NNNN
+YNNN
+NYNY
+NNNN
+YYYN
+NYNY
+NEEE
+EEEE
+EEEE
+8 passengers carry luggage.
+
+> coach
+10
+NYNN
+YNNN
+NYEE
+EEEE
+EEEE
+EEEE
+EEEE
+EEEE
+EEEE
+3 passengers carry luggage.
